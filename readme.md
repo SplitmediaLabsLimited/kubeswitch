@@ -20,6 +20,9 @@ Then follow the instructions...
 
 ## Overview
 
+### Help
+Specifically use `kubeswitch --help` if you want to see the commands help because `kubeswitch` alone defaults to `kubeswitch switch` for convenicence.
+
 ### Add
 Clear your environment so you're ready to use kubeswitch.
 
